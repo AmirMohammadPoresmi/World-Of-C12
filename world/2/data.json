@@ -1,0 +1,24 @@
+{
+    "author":{
+        "name":"AmirMohammad Poresmi",
+        "email":"amirmohammadporesmi@gmail.com"
+    },
+    "status":"nativity",
+    "text":[
+        "Happy Birthday To You!",
+        "Let me be honest with you",
+        "You are a living being that your parents created you for the survival of their species",
+        "They are slaves to their own instincts"
+    ],
+    "question":"Do you want to continue even though you are a target?",
+    "choices":{
+        "1":{
+            "text":"Yes.",
+            "link":"./<key>"
+        },
+        "2":{
+            "text":"No.",
+            "link":"[Death at birth]"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "author":{
+        "name":"AmirMohammad Poresmi",
+        "email":"amirmohammadporesmi@gmail.com"
+    },
+    "status":"nativity",
+    "text":[
+        "You came out of the mother's dark womb.",
+        "There is no place for fear in this world."
+    ],
+    "question":"Are you scared?",
+    "choices":{
+        "1":{
+            "text":"Yes.",
+            "link":"[Death at birth]"
+        },
+        "2":{
+            "text":"No.",
+            "link":"./<key>"
+        }
+    }
+}
